@@ -48,6 +48,7 @@ gcloud run deploy flask-app \
 7. Directory Structure
 
 Intelligent-FinWISE-ChatBOT/
+
 |-- main.py             # Flask application entry point
 |-- requirements.txt    # Python dependencies
 |-- Dockerfile          # Docker image configuration
